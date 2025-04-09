@@ -1,11 +1,11 @@
 body{
-	 background-color:#cfc89a; 
+	 background-color:#fff7e5; 
 	font-family: sans-serif;
 	text-align: justify;
 }
 
 nav{
-	 background-color:#89a194;
+	 background-color:#f5a3af;
 	  font-family:'Century-Gothic'; 
 }
 
@@ -14,7 +14,7 @@ header{
 	text-align: center;
 	font-size: 2rem;
 	padding: 1%;
-	background-color: #cc883a;
+	background-color: #fecdd0;
 }
 
 a img{
@@ -87,7 +87,7 @@ article{
 
 footer{
 	 font-family:'Century-Gothic'; 
-	background-color:#a14016;
+	background-color:#f8afb8;
     color:black;
     text-align: center;
     padding: 0.5rem;
