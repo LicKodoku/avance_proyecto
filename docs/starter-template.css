@@ -1,0 +1,69 @@
+
+body{
+    background-color:#fff7e5 ;
+   
+}
+/* Definición de colores */
+.color1 { #fff7e5 }; /* crema */
+.color2 { #fecdd0 }; /* rosa suave */
+.color3 { #f8afb8 }; /* rosa medio */
+.color4 { #f5a3af }; /*  rosa fuerte*/
+.color5 { #59483e }; /* cafe */
+
+
+ul{
+    font-size: 100%;
+}
+
+
+
+.espacio{
+margin-top: 10px;
+margin-bottom: 10px;/*Añade un margen inferior de 20px*/
+}
+
+.text-color1 {
+    color: #fff7e5;
+}
+
+.text-color2 {
+    color: #fecdd0;
+}
+.text-color3 {
+    color: #f8afb8;
+}
+.text-color4 {
+    color: #f5a3af;
+}
+.text-color5 {
+    color: #59483e;
+}
+.bg-color5 {
+    background-color: #59483e;
+}
+
+.bg-color2 {
+    background-color: #fecdd0;
+}
+
+.bg-color3 {
+    background-color: #cc333f;
+}
+
+.skills {
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+.card-text{
+color: #042f20;
+}
+
+.card-body{
+background-color: #f8afb8;
+}
+
+.card-link{
+color: #115c4b;
+font-size: 16px;
+}

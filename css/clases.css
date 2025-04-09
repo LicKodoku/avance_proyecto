@@ -1,0 +1,55 @@
+div.navbar-nav{
+
+}
+
+.nav-link{
+	margin-left: 15px;
+	color: #322938; 
+	font-size: 1.1rem;
+}
+
+.p-detalle{
+	padding: 5%;
+	background-color:#cc883a;
+	font-size: 1.2rem;
+	border-radius: 10%;
+	border: 3px solid #a14016;
+	max-height: 0;
+  	opacity: 0;
+  	transition: all 1s ease-in-out;
+}
+
+details[open] .p-detalle {
+ 	max-height: 200px; 
+  	opacity: 1;
+  	padding: 10px 10px;
+}
+
+div.container{
+	margin-top: 2%;
+}
+
+.col-8{
+	border: 2px solid transparent;
+}
+
+.ul-index{
+	list-style: none;
+}
+
+.li-index{
+	margin: 2%;
+}
+
+.li-gob{
+	width: 90%;
+	margin-bottom:0.5%;
+}
+
+.card-body{
+	background-color: #cc883a;
+}
+
+.img-borde{
+	border-radius: 20%;
+}
