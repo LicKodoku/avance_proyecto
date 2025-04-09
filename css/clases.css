@@ -53,3 +53,19 @@ div.container{
 .img-borde{
 	border-radius: 20%;
 }
+
+.sect-nosotros{
+	width: 90%;
+}
+
+.article-nosotros{
+	width: 60%;
+}
+
+.article-img{
+	width: 30%;
+}
+
+.sep{
+	background-color: #f5a3af;
+}
