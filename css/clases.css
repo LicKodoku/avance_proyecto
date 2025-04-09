@@ -10,7 +10,7 @@ div.navbar-nav{
 
 .p-detalle{
 	padding: 5%;
-	background-color:#cc883a;
+	background-color:#f5a3af;
 	font-size: 1.2rem;
 	border-radius: 10%;
 	border: 3px solid #a14016;
@@ -47,7 +47,7 @@ div.container{
 }
 
 .card-body{
-	background-color: #cc883a;
+	background-color: #f8afb8;
 }
 
 .img-borde{
