@@ -46,7 +46,6 @@ main{
 	margin-left: 5%;
 	width: 90%;
 	font-size: 1rem;
-	border: 2px solid black;
 }
 
 main p{
@@ -75,7 +74,6 @@ section{
 	width: 70%;
 	margin-left: 5%;
 	font-size: 1rem;
-	border: 2px solid black;
 }
 
 article{
